@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\grabo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grabo\\.nuget\\packages"
+    ]
+  }
+}

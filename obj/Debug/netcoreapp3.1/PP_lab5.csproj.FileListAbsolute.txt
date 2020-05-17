@@ -1,0 +1,13 @@
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.exe
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.deps.json
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.runtimeconfig.json
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.runtimeconfig.dev.json
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.dll
+C:\Users\grabo\source\repos\PP_lab5\bin\Debug\netcoreapp3.1\PP_lab5.pdb
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.csproj.CoreCompileInputs.cache
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.AssemblyInfoInputs.cache
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.AssemblyInfo.cs
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.dll
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.pdb
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.genruntimeconfig.cache
+C:\Users\grabo\source\repos\PP_lab5\obj\Debug\netcoreapp3.1\PP_lab5.csprojAssemblyReference.cache
